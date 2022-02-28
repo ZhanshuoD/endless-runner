@@ -1,6 +1,5 @@
 {
   "resources": [
-    {"id":{"name":"Sequence1","path":"sequences/Sequence1/Sequence1.yy",},"order":1,},
     {"id":{"name":"spr_large","path":"sprites/spr_large/spr_large.yy",},"order":5,},
     {"id":{"name":"spr_bird","path":"sprites/spr_bird/spr_bird.yy",},"order":6,},
     {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},"order":3,},
