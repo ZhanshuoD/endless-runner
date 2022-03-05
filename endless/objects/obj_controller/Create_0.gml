@@ -4,3 +4,5 @@ global.speedModifier = 0.2;
 
 
 alarm[0] = room_speed * 1;
+
+score_cus = 0;

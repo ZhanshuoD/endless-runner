@@ -3,4 +3,4 @@
 global.speedModifier += 0.0005;
 
 
-score += 1 * global.speedModifier;
+score_cus += 0.5 * global.speedModifier;
